@@ -3,6 +3,8 @@ SimpleTomcatWebApp
 
 This is a simple hello word web application. It contains index.jsp which produces html that says. Hello Platform!!
 
+It can be run in any Servlet Container like Tomcat,Jetty
+
 #Prerequisite 
 * JDK 1.7
 * Maven
